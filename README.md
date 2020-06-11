@@ -42,3 +42,18 @@ ESRGAN: Enhanced Super-Resolution Generative Adversarial Networks
 
 - **Content**:  
 In [this PDF](https://drive.google.com/file/d/1mAnudOH7Rkgzqhl1e1jxzZzzoGBOp2Um/view?usp=sharing)
+
+
+
+## Session 5
+- **Date**:  
+2020/06/11(Thu)10:00-11:00
+
+- **Speaker**:  
+Ryoto Nakamura
+
+- **Paper**:  
+GEOMETRY-AWARE NEURAL RENDERING
+
+- **Content**:  
+In [this PDF](https://drive.google.com/file/d/14Z183gjj9LdqDnS3eysEIKii3x0zbVXk/view?usp=sharing)
