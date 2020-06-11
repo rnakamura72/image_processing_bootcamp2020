@@ -56,4 +56,4 @@ Ryoto Nakamura
 GEOMETRY-AWARE NEURAL RENDERING
 
 - **Content**:  
-In [this PDF](https://drive.google.com/drive/u/0/folders/1s40cGNggH7EJn8kERqbuz4MkXerlvewD)
+In [this PDF](https://drive.google.com/file/d/14Z183gjj9LdqDnS3eysEIKii3x0zbVXk/view?usp=sharing)
