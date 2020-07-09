@@ -46,13 +46,16 @@ In [this PDF](https://drive.google.com/file/d/1mAnudOH7Rkgzqhl1e1jxzZzzoGBOp2Um/
 ## Session 6
 
 - **Date**:  
-
+2020/06/11 (Thu) 10:00-11:00
 - **Speaker**:  
 Nakamura
 
 - **Paper**:  
+Geometry-Aware Neural Rendering
 
 - **Content**:  
+In [this PDF](https://drive.google.com/file/d/14Z183gjj9LdqDnS3eysEIKii3x0zbVXk/view?usp=sharing)
+
 
 
 ## Session 7
